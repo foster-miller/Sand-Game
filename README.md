@@ -1,5 +1,7 @@
 # Sand-Game
 
+<img width="600" height="697" alt="Screenshot 2025-09-05 102816" src="https://github.com/user-attachments/assets/1e6f7979-146a-4dd9-8d90-85da7ba82f48" />
+
 ## Description
 This program simulates a world in which the user can control certain elements that take place, such as building a floor, sprinkling sand, and making it rain. The user selects which element they would like to use by pressing the key associated with the element ('s'=sand, 'w'=water, 'f'=floor)
 
